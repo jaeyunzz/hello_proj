@@ -1,0 +1,11 @@
+ O volume na unidade C ‚ Windows
+ O N£mero de S‚rie do Volume ‚ 88F7-3692
+
+ Pasta de C:\Users\44701384879\Desktop\hello_proj
+
+07/05/2026  21:55    <DIR>          .
+07/05/2026  20:47    <DIR>          ..
+07/05/2026  21:55                 0 dir.txt
+07/05/2026  21:10                70 README.md
+               2 arquivo(s)             70 bytes
+               2 pasta(s)   820.466.044.928 bytes dispon¡veis
