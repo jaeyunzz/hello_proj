@@ -1,0 +1,13 @@
+ O volume na unidade C ‚ Windows
+ O N£mero de S‚rie do Volume ‚ 22ED-07E4
+
+ Pasta de C:\Users\44701384879\hello_proj
+
+15/05/2026  20:22    <DIR>          .
+15/05/2026  20:21    <DIR>          ..
+15/05/2026  19:15               454 arq10.txt
+15/05/2026  20:22                 0 arq11.txt
+15/05/2026  18:59               415 dir.txt
+15/05/2026  18:59                70 README.md
+               4 arquivo(s)            939 bytes
+               2 pasta(s)   800.394.395.648 bytes dispon¡veis
